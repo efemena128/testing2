@@ -1,0 +1,38 @@
+#title {
+	background-color: #120136;
+}
+h1{
+	font-family: sacramento;
+	font-size: 4rem;
+	line-height: 1.5;
+	color: white;
+}
+.lo{
+	height:60px;
+	width: auto;
+	border-radius: 10px;
+}
+.efe{
+	height:400px;
+	width:350px;
+}
+.p1{
+	color: white;
+}
+.p2{
+	font-size:40px;
+	color: #e71414;
+}
+p{
+	font-size: 30px;
+}
+.ps3{
+	font-size: 30px;
+}
+.g{
+	color: #45046a;
+	font-size: 40px;
+}
+.im2{
+	border-radius: 10px;
+}
